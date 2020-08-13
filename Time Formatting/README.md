@@ -1,4 +1,4 @@
-# Github+ | Code Folding
+# Github+ | Time Formatting
 
 
 ### Description:
