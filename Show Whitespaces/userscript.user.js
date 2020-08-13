@@ -29,7 +29,7 @@
 // @grant       GM.registerMenuCommand
 
 // @run-at      document-idle
-// ==UserScript==
+// ==/UserScript==
 
 (async () => {
 	"use strict";
