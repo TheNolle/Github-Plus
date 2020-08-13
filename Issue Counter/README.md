@@ -1,4 +1,4 @@
-# Github+ | Code Folding
+# Github+ | Issue Counter
 
 
 ### Description:
