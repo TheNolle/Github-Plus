@@ -9,9 +9,9 @@
 // @author       TheNolle Studios
 // @description           Improves Github in a way you may like it.
 
-// @supportURL   https://github.com/TheNolle/Spotify-Adblocker/issues/new/choose
-// @updateURL    https://github.com/TheNolle/Spotify-Adblocker/raw/master/userscript.user.js
-// @downloadURL  https://github.com/TheNolle/Spotify-Adblocker/raw/master/userscript.user.js
+// @supportURL   https://github.com/TheNolle/Github-Plus/issues/new/choose
+// @updateURL    https://github.com/TheNolle/Github-Plus/raw/master/Show%20Whitespaces/userscript.user.js
+// @downloadURL  https://github.com/TheNolle/Github-Plus/raw/master/Show%20Whitespaces/userscript.user.js
 
 // @include     https://github.com/*
 // @include     https://gist.github.com/*
@@ -29,7 +29,7 @@
 // @grant       GM.registerMenuCommand
 
 // @run-at      document-idle
-// ==/UserScript==
+// ==UserScript==
 
   // Create a new localStorage + Displays an Alert Box on First Use
     var FirstUse = localStorage.getItem('FirstUse') || '';
