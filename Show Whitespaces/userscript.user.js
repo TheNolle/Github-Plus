@@ -31,6 +31,19 @@
 // @run-at      document-idle
 // ==/UserScript==
 
+  // Create a new localStorage + Displays an Alert Box on First Use
+    var FirstUse = localStorage.getItem('FirstUse') || '';
+    if (FirstUse != 'No') {
+     alert(`_________________________________________________________________________
+                                Thank you for using our script!
+You can join our Discord (https://discord.gg/yUgp7k8) to support us!
+And also that if you encounter any bugs with our script, you can leave a [Bug Report] on the github (https://github.com/TheNolle)
+                                                                                - TheNolle Studios
+_________________________________________________________________________
+`);
+     localStorage.setItem('FirstUse','No');
+    }
+
 (async () => {
 	"use strict";
 
