@@ -1,4 +1,4 @@
-# Github+ | Latest Issues
+# Github+ | Latest Issues <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Latest%20Issues/logo.png" height="32" width="32">
 
 
 ### Description:
