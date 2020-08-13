@@ -9,9 +9,9 @@
 // @author       TheNolle Studios
 // @description           Improves Github in a way you may like it.
 
-// @supportURL   https://github.com/TheNolle/Spotify-Adblocker/issues/new/choose
-// @updateURL    https://github.com/TheNolle/Spotify-Adblocker/raw/master/userscript.user.js
-// @downloadURL  https://github.com/TheNolle/Spotify-Adblocker/raw/master/userscript.user.js
+// @supportURL   https://github.com/TheNolle/Github-Plus/issues/new/choose
+// @updateURL    https://github.com/TheNolle/Github-Plus/raw/master/Preview%20files/userscript.user.js
+// @downloadURL  https://github.com/TheNolle/Github-Plus/raw/master/Preview%20files/userscript.user.js
 
 // @include     https://github.com/*
 
@@ -20,10 +20,10 @@
 // @grant       GM_setValue
 // @grant       GM_xmlhttpRequest
 
-// @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
-
 // @connect     github.com
 // @connect     githubusercontent.com
+
+// @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
 
 // @run-at      document-idle
 // ==/UserScript==
