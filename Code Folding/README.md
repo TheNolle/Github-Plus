@@ -1,4 +1,4 @@
-# Github+ | Code Folding
+# Github+ | Code Folding <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Code%20Folding/logo.png" height="32" width="32">
 
 
 ### Description:
