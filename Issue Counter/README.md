@@ -1,4 +1,4 @@
-# Github+ | Issue Counter
+# Github+ | Issue Counter <img src="https://github.com/TheNolle/Github-Plus/blob/master/Issue%20Counter/logo.png?raw=true" height="32" width="32">
 
 
 ### Description:
