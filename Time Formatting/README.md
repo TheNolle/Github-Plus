@@ -1,4 +1,4 @@
-# Github+ | Time Formatting
+# Github+ | Time Formatting <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Time%20Formatting/logo.png" height="32" width="32">
 
 
 ### Description:
