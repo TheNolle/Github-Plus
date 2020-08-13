@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Github+
+// @name        Github+ | Lastest Issues Button
 // @namespace   thenolle.studios.github.plus
 
 // @copyright    2020, TheNolle Studios
