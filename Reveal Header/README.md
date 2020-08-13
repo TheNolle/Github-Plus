@@ -1,4 +1,4 @@
-# Github+ | Code Folding
+# Github+ | Reveal Header
 
 
 ### Description:
