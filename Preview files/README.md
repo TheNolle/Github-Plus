@@ -1,4 +1,4 @@
-# Github+ | Preview Files
+# Github+ | Preview Files <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Preview%20files/logo.png" height="32" width="32">
 
 
 ### Description:
