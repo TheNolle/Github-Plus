@@ -16,7 +16,6 @@
 // @include     https://github.com/*
 
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
-
 // @connect     api.github.com
 
 // @grant       GM_addStyle
