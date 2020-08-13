@@ -16,9 +16,13 @@
 // @include     https://github.com/*
 // @include     https://gist.github.com/*
 
-// @grant       none
+// @require     https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js?updated=20180103
+// @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
 
-// @run-at      document-end
+// @grant       GM.addStyle
+// @grant       GM_addStyle
+
+// @run-at      document-idle
 // ==/UserScript==
 
 (() => {
