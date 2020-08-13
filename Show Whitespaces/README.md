@@ -1,4 +1,4 @@
-# Github+ | Show Whitespaces
+# Github+ | Show Whitespaces <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Show%20Whitespaces/logo.png" height="32" width="32">
 
 
 ### Description:
