@@ -19,17 +19,17 @@
 // @require     https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js?updated=20180103
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
 
+// @grant       GM_registerMenuCommand
+// @grant       GM.registerMenuCommand
 // @grant       GM.addStyle
 // @grant       GM_addStyle
 // @grant       GM.getValue
 // @grant       GM_getValue
 // @grant       GM.setValue
 // @grant       GM_setValue
-// @grant       GM_registerMenuCommand
-// @grant       GM.registerMenuCommand
 
 // @run-at      document-idle
-// ==UserScript==
+// ==/UserScript==
 
   // Create a new localStorage + Displays an Alert Box on First Use
     var FirstUse = localStorage.getItem('FirstUse') || '';
