@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[Bug Report]"
 labels: ''
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+What are the steps you've done to have this behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots** *(optional)*
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
@@ -28,11 +28,19 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
 **Additional context**
 Add any other context about the problem here.
+# You can support our work with Patreon, Ko_Fi or even Discord!
+
+
+## Patreon
+You can find our page here: [TheNolle.Studios](https://www.patreon.com/TheNolle_Studios)
+- It is still empty for now but will soon be full of interesting things!
+
+## Ko-Fi
+Here's our Ko-Fi page: [TheNolle Studios](https://ko-fi.com/thenollestudios)
+- You can buy us a small coffee easily <3
+
+## Discord
+And here's the discord: [🎞 TheNolle Studios 🎞](https://discord.com/invite/yUgp7k8)
+- You can find **EVERYTHING** you must need there.
