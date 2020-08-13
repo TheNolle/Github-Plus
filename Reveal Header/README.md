@@ -1,4 +1,4 @@
-# Github+ | Reveal Header
+# Github+ | Reveal Header <img src="https://raw.githubusercontent.com/TheNolle/Github-Plus/master/Reveal%20Header/logo.png" height="32" width="32">
 
 
 ### Description:
