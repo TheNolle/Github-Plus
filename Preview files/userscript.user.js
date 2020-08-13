@@ -22,6 +22,9 @@
 
 // @require     https://greasyfork.org/scripts/28721-mutations/code/mutations.js?version=666427
 
+// @connect     github.com
+// @connect     githubusercontent.com
+
 // @run-at      document-idle
 // ==/UserScript==
 
