@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Github+ | Issue Counter
+// @name        Github+ | Reveal Header
 // @namespace   thenolle.studios.github.plus
 
 // @copyright    2020, TheNolle Studios
